@@ -1,0 +1,21 @@
+{
+  "name": "com.studiohighground.blackjack",
+  "displayName": "BlackJackSystem",
+  "version": "0.0.1",
+  "unity": "2022.2",
+  "description": "Event and localization editor for Studio High Ground's Unity games. Black Jack has a modular editor, a localization file import and export system, and a code transpiler to create a one-of-a kind automation shop to manage all game events and cut down on all localization efforts for all consoles. Owned by Studio High Ground and Fernando Holguín copyright Studio High Ground, Fernando Holguin (c) 2023",
+  "keywords": [
+    "highground",
+    "blackjack",
+    "blackjacksystem",
+    "system",
+    "modular",
+    "editor",
+    "simplification",
+    "optimization"
+  ],
+  "author": {
+    "name": "Unity"
+  },
+  "bugs": ""
+}
